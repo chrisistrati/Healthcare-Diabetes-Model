@@ -1,0 +1,5 @@
+In acest program o sa facem un model care prezice daca o persoana are diabet sau nu.
+Presupun ca un model de linear regression nu va fi potrivit, si va trebui sa foloesc un model de logistical regression.
+
+Deasemenea presupun ca oamenii cu putina insulina, mult zahar in organism, care sunt mai invarsta, si care au gena predispusa diabetului
+vor avea sanse mai mare de a fii diagnosticati cu diabet.

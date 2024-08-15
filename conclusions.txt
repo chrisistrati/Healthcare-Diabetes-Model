@@ -1,0 +1,4 @@
+In concluzie am avut dreptate sa cred ca linear regression nu este potrivit, deoarece a avut un scor de 30%, pe cand logictical regression 
+a avut unul de 80%.
+
+Deasemenea, modelul antrenat ia in cosiderare toate lucrurile care le-am asumat, adica insulina sazuta, zaharul ridicat in sange, varsta etc.
